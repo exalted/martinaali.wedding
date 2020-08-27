@@ -13,6 +13,8 @@ So, here's what we _do_ know so far:
 
 ## 🗓️ Save the date
 
+<!-- TODO: (Maybe) Add link to iCalendar (*.ics) -->
+
 We will get married on June 25th, 2021.
 
 
