@@ -18,7 +18,7 @@ We will get married on June 25th, 2021.
 
 ## 📮 RSVP
 
-Please [let us know](#-contact-us) you won't miss our special day no later than June 1st, 2021.
+Please [let us know](#-contact-us) you won't miss our special day **no later than June 1st, 2021**.
 
 Also, please make sure read dedicated [COVID section](#-covid) before you decide.
 
@@ -35,7 +35,7 @@ You can call, email, WhatsApp, iMessage, etc. Ali anytime:
 
 The place is called "Antico Casale Cesenatico" and <a href="http://anticocasalecesenatico.com" target="_blank" rel="noopener noreferrer">this is their website</a>.
 
-Do NOT GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
+**Do NOT** GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
 
 Make sure to read [how-to get there](#-how-to-get-there) section.
 
@@ -47,7 +47,7 @@ Via Cannucceto, 10
 Italy
 ```
 
-You might figure they also manage a small bed and breakfast at the same location, however we do not necessarily recommend you staying there as it is pretty much in the middle of nowhere.
+> You might figure they manage also a small bed and breakfast at the same location, however we do not necessarily recommend you staying there as it is pretty much in the middle of nowhere and it's not cheap.
 
 
 ## 🚗 How-to get there
