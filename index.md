@@ -18,7 +18,7 @@ We will get married on June 25th, 2021.
 
 ## 📮 RSVP
 
-Please [let us know](#-contact-us) you won't miss our special day **no later than June 1st, 2021**.
+Please [let us know](#-contact-us) that you won't miss our special day **no later than June 1st, 2021**.
 
 <!-- Also, please make sure read dedicated [COVID section](#-covid) before you decide. -->
 
