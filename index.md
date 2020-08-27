@@ -20,7 +20,7 @@ We will get married on June 25th, 2021.
 
 Please [let us know](#-contact-us) you won't miss our special day **no later than June 1st, 2021**.
 
-Also, please make sure read dedicated [COVID section](#-covid) before you decide.
+<!-- Also, please make sure read dedicated [COVID section](#-covid) before you decide. -->
 
 
 ## ☎️ Contact us
@@ -52,16 +52,18 @@ Italy
 
 ## 🚗 How-to get there
 
-🎗 TODO: Mention: You'll definitely need a car.
+<!-- TODO: Mention: You'll definitely need a car. -->
 
 Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopener noreferrer">**this link**</a> to pinpoint to the exact location using Google Maps.
 
 [![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
 
+<!-- 
 ## 🦠 COVID
 
-🎗 TODO
+TODO
+-->
 
 
 ## Noteworthy updates to this page
