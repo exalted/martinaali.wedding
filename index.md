@@ -18,7 +18,17 @@ We will get married on June 25th, 2021.
 
 ## 📮 RSVP
 
-TODO
+Please [let us know you](#-contact-us) won't miss our special day no later than June 1st, 2021.
+
+Also, please make sure read dedicated [COVID section](#-covid) before you decide.
+
+
+## ☎️ Contact us
+
+You can call, email, WhatsApp, iMessage, etc. Ali anytime:
+
+Email: [asd@pittle.org](mailto:asd@pittle.org)
+Phone: [+39 320 8807212](tel:+39 320 8807212)
 
 
 ## 📍Location
