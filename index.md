@@ -27,8 +27,8 @@ Also, please make sure read dedicated [COVID section](#-covid) before you decide
 
 You can call, email, WhatsApp, iMessage, etc. Ali anytime:
 
-Email: [asd@pittle.org](mailto:asd@pittle.org)
-Phone: [+39 320 8807212](tel:+39 320 8807212)
+* Email: [asd@pittle.org](mailto:asd@pittle.org)
+* Phone: [+39 320 8807212](tel:+39 320 8807212)
 
 
 ## 📍Location
