@@ -2,13 +2,11 @@
 
 Hi there,
 
-In this admittedly very basic page we'd like to share with you all the useful information you might want to know about our wedding.
+This is admittedly a very basic page in which we'd like to share with you all the useful information you might want to know about our wedding.
 
-We are figuring out many details as we go, and as soon as we have something to share we will do so by updating this page (e.g., recommendations on how to arrive to the location, where to stay, interesting things to do during your visit to Italy, etc.)
+We are figuring out many details as we go, and as soon as we have something to share we will do so by updating this page (e.g., recommendations on how to arrive to the location, where to stay, interesting things to do during your visit to Italy, etc.) So, be sure to check out this page from time to time…
 
-Be sure to check out this page from time to time…
-
-So, here's what we _do_ know so far:
+Here's what we _do_ know so far:
 
 
 ## 🗓️ Save the date
