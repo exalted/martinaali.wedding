@@ -1,12 +1,14 @@
-# Yes, we're getting married! 🎉
+# YES! We're getting married. 🎉
 
 Hi there,
 
-In this page we'd like to share with you useful information you might want to know about our wedding.
+In this admittedly very basic page we'd like to share with you all the useful information you might want to know about our wedding.
 
-Admittedly, we don't have much to announce yet, but the best is yet to come… We will share more details as we sort them out ourselves (e.g., recommendations on how to arrive to the location, where to stay, interesting things to do during your visit to Italy, etc.), be sure to check out this page from time to time.
+We are figuring out many details as we go, and as soon as we have something to share we will do so by updating this page (e.g., recommendations on how to arrive to the location, where to stay, interesting things to do during your visit to Italy, etc.)
 
-So here's what we _do_ know so far:
+Be sure to check out this page from time to time…
+
+So, here's what we _do_ know so far:
 
 
 ## 🗓️ Save the date
@@ -41,3 +43,8 @@ Use [this link](https://goo.gl/maps/HDcbyhjBNG72bNDD9) instead to pinpoint to th
 ## 🦠 COVID
 
 TODO
+
+
+## Noteworthy updates to this page
+
+- 27 August 2020: First version.
