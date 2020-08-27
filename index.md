@@ -35,7 +35,11 @@ You can call, email, WhatsApp, iMessage, etc. Ali anytime:
 
 The place is called "Antico Casale Cesenatico" and <a href="http://anticocasalecesenatico.com" target="_blank" rel="noopener noreferrer">this is their website</a>.
 
-For whatever it's worth here's the address as it appears on the website:
+Do NOT GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
+
+Make sure to read [how-to get there](#-how-to-get-there) section.
+
+For whatever it's worth here's their address as it appears on the website:
 
 ```
 Via Cannucceto, 10
@@ -43,16 +47,21 @@ Via Cannucceto, 10
 Italy
 ```
 
-Do NOT GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
+You might figure they also manage a small bed and breakfast at the same location, however we do not necessarily recommend you staying there as it is pretty much in the middle of nowhere.
 
-Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopener noreferrer">this link</a> instead to pinpoint to the exact location using Google Maps.
+
+## 🚗 How-to get there
+
+🎗 TODO: Mention: You'll definitely need a car.
+
+Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopener noreferrer">**this link**</a> to pinpoint to the exact location using Google Maps.
 
 ![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
 
 ## 🦠 COVID
 
-TODO
+🎗 TODO
 
 
 ## Noteworthy updates to this page
