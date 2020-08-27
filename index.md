@@ -25,9 +25,11 @@ The place is called "Antico Casale Cesenatico" and [this is their website](http:
 
 For whatever it's worth here's the address as it appears on the website:
 
-> Via Cannucceto, 10
-> 47042 Cesenatico FC
-> Italy
+```
+Via Cannucceto, 10
+47042 Cesenatico FC
+Italy
+```
 
 Do NOT GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
 
