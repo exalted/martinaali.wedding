@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Yes, we're getting married! 🎉
 
-You can use the [editor on GitHub](https://github.com/exalted/martinaali.wedding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this page we'd like to share with you useful information you might want to know about our wedding.
 
-### Markdown
+Admittedly, we don't have much to announce yet, but the best is yet to come… We will share more details as we sort them out ourselves (e.g., recommendations on how to arrive to the location, where to stay, interesting things to do during your visit to Italy, etc.), be sure to check out this page from time to time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So here's what we _do_ know so far:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 🗓️ Save the date
 
-- Bulleted
-- List
+We will get married on June 25th, 2021.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 📮 RSVP
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 📍The location
 
-### Jekyll Themes
+The place is called "Antico Casale Cesenatico" and [this is their website](http://anticocasalecesenatico.com).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/exalted/martinaali.wedding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For whatever it's worth here's the address as it appears on the website:
 
-### Support or Contact
+> Via Cannucceto, 10
+> 47042 Cesenatico FC
+> Italy
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Do NOT GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
+
+Use this link https://goo.gl/maps/HDcbyhjBNG72bNDD9 instead, which should pinpoint to the exact location.
+
+<img src="{{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }}" location="Location" />
+
+![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
+
+
+## 🦠 COVID
+
+TODO
