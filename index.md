@@ -33,7 +33,7 @@ Italy
 
 Do NOT GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
 
-Use this link https://goo.gl/maps/HDcbyhjBNG72bNDD9 instead, which should pinpoint to the exact location.
+Use [this link](https://goo.gl/maps/HDcbyhjBNG72bNDD9) instead to pinpoint to the exact location using Google Maps.
 
 ![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
