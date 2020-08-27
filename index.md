@@ -16,8 +16,10 @@ We will get married on June 25th, 2021.
 
 ## 📮 RSVP
 
+TODO
 
-## 📍The location
+
+## 📍Location
 
 The place is called "Antico Casale Cesenatico" and [this is their website](http://anticocasalecesenatico.com).
 
