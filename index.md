@@ -33,8 +33,6 @@ Do NOT GPS-navigate to the location by looking up their address straight from th
 
 Use this link https://goo.gl/maps/HDcbyhjBNG72bNDD9 instead, which should pinpoint to the exact location.
 
-<img src="{{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }}" location="Location" />
-
 ![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
 
