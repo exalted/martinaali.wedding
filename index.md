@@ -35,7 +35,7 @@ You can call, email, WhatsApp, iMessage, etc. Ali anytime:
 
 The location is called "Antico Casale Cesenatico" and <a href="http://anticocasalecesenatico.com" target="_blank" rel="noopener noreferrer">this is their website</a>.
 
-**Do NOT** GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! It's very close to our location and they're lovely people, but we'd rather have you in our own party.
+**Do NOT** GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there! Although the address on the website would guide you to a very close location and you would met with lovely people, we'd rather have you in our own party!
 
 Make sure to read [how-to get there](#-how-to-get-there) section.
 
