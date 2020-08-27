@@ -56,7 +56,7 @@ Italy
 
 Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopener noreferrer">**this link**</a> to pinpoint to the exact location using Google Maps.
 
-![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
+[![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
 
 ## 🦠 COVID
