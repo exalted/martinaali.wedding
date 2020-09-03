@@ -11,14 +11,12 @@ Here's what we _do_ know so far:
 
 ## 🗓️ Save the date
 
-<!-- TODO: (Maybe) Add link to iCalendar (*.ics) -->
-
-We will get married on June 25th, 2021.
+We will get married on **June 25th, 2021** ([click here to add the date to your calendar]({{ '/assets/calendar/martina-ali-wedding.ics?v=' | append: site.github.build_revision | relative_url }})).
 
 
 ## 📮 RSVP
 
-Please [let us know](#-contact-us) that you won't miss our special day **no later than June 1st, 2021**.
+Please [let us know](mailto:asd@pittle.org) that you won't miss our special day **no later than June 1st, 2021**.
 
 <!-- Also, please make sure read dedicated [COVID section](#-covid) before you decide. -->
 
@@ -52,18 +50,16 @@ Italy
 
 ## 🚗 How-to get there
 
-<!-- TODO: Mention: You'll definitely need a car. -->
+<!-- TODO: Unless we managed to organize a bus or something, mention that guests will definitely need to rent a car. -->
 
 Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopener noreferrer">**this link**</a> to pinpoint to the exact location using Google Maps.
 
 [![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
 
-<!-- 
-## 🦠 COVID
+## 🦠 COVID-19
 
-TODO
--->
+It's real and we are fully aware of it 😢. Stay tuned for updates and recommendations about COVID-19, sometime next year.
 
 
 ## Noteworthy updates to this page
