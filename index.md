@@ -57,11 +57,11 @@ Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopene
 
 ## 🚗 Travel recommendations
 
-The closest international airport to Cesenatico is [Guglielmo Marconi Airport - BLQ, Bologna](https://www.bologna-airport.it/en/), however due to ongoing pandemic it might be tricky to fly there, so we think your best alternatives are:
+The closest international airport to Cesenatico is <a href="https://www.bologna-airport.it/en/" target="_blank" rel="noopener noreferrer">Guglielmo Marconi Airport - BLQ, Bologna</a>, however due to ongoing pandemic it might be tricky to fly there since it is a smaller airport. Your best alternatives are:
 
-1. [Malpensa Airport - MXP, Milan](https://www.milanomalpensa-airport.com/en/)
-2. [Orio al Serio International Airport - BGY, Milan](https://www.milanbergamoairport.it/en/)
-3. [Fiumicino International Airport - FCO, Rome](https://www.adr.it/web/aeroporti-di-roma-en-/)
+1. <a href="https://www.milanomalpensa-airport.com/en/" target="_blank" rel="noopener noreferrer">Malpensa Airport - MXP, Milan</a>
+2. <a href="https://www.milanbergamoairport.it/en/" target="_blank" rel="noopener noreferrer">Orio al Serio International Airport - BGY, Milan</a>
+3. <a href="https://www.adr.it/web/aeroporti-di-roma-en-/" target="_blank" rel="noopener noreferrer">Fiumicino International Airport - FCO, Rome</a>
 
 We think it's best if you could rent a car for your stay. However if you think you won't be moving too much, you will still need to call a taxi to get to the wedding location. Cesenatico taxi service's number is [+39 0547 81365](tel:+39 0547 81365). (They should understand some English, but in case you're in trouble, you can ask Ali to coordinate.)
 
