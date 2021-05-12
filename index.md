@@ -32,7 +32,7 @@ The latest news is that the EU will adopt a "green pass" (aka "green certificate
 
 Meanwhile, Italy is introducing its own allowances starting mid-May, which can be summarized like so:
 
-* If you're coming from EU member countries, UK, Israel, etc. (essentially those countries where most of the population has been vaccinated), starting Mid May, you will be able to travel to Italy, without having to quarantine.
+* If you're coming from EU member countries, UK, Israel, etc. (essentially those countries where most of the population has been vaccinated), starting mid-May, you will be able to travel to Italy, without having to quarantine.
 * If you're coming from the USA, starting mid-June, you will highly likely be able to travel to Italy, without having to quarantine. (On this one we're still waiting for the EU to come up with "green pass" rules.)
 * If you're coming from other countries you will be asked to self-quarantine for about 10 days when you enter Italy. (You might also have to check with your local embassies if they will issue you a visa or a travel permit.)
 
