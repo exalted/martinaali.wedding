@@ -26,6 +26,22 @@ IT90X0305801604100571215049
 ```
 
 
+## 🦠 COVID-19
+
+The latest news is that the EU will adopt a "green pass" (aka "green certificate") starting mid-June for those who either have been vaccinated or can prove that they have been infected by the virus and they're fully recovered from it.
+
+Meanwhile, Italy is introducing its own allowances starting mid-May, which can be summarized like so:
+
+* If you're coming from EU member countries, UK, Israel, etc. (essentially those countries where most of the population has been vaccinated), starting Mid May, you will be able to travel to Italy, without having to quarantine.
+* If you're coming from the USA, starting mid-June, you will highly likely be able to travel to Italy, without having to quarantine. (On this one we're still waiting for the EU to come up with "green pass" rules.)
+* If you're coming from other countries you will be asked to self-quarantine for about 10 days when you enter Italy. (You might also have to check with your local embassies if they will issue you a visa or a travel permit.)
+
+Regardless of where you are coming from;
+
+* You will have to prove that you have been vaccinated (or have recovered from the virus) in the last 6 months.
+* You will have to do a swab test (PCR molecular) in the last 48 hours before departure.
+
+
 ## ☎️ Contact us
 
 You can call, email, WhatsApp, iMessage, etc. Ali anytime:
@@ -66,13 +82,9 @@ The closest international airport to Cesenatico is <a href="https://www.bologna-
 We think it's best if you could rent a car for your stay. However if you think you won't be moving too much, you will still need to call a taxi to get to the wedding location. Cesenatico taxi service's number is [+39 0547 81365](tel:+39 0547 81365). (They should understand some English, but in case you're in trouble, you can ask Ali to coordinate.)
 
 
-## 🦠 COVID-19
-
-It's real and we are fully aware of it 😢. Stay tuned for updates and recommendations about COVID-19!
-
-
 ## Noteworthy updates to this page
 
+- 12 May 2021: Updated COVID-19 section with the latest news
 - 21 Feb 2021:
   - Added the "Share the love" section
   - Added some travel recommendations
