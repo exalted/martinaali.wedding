@@ -4,7 +4,7 @@ Hi there,
 
 This is admittedly a very simple page where we will share with you all the useful information you might want to know about our wedding.
 
-We are figuring out many details as we go, and as soon as we have more to share we will do so by updating this very page (e.g., recommendations on how to arrive to the location, where to stay, interesting things to do during your visit to Italy, etc.) So, be sure to check out this page from time to time…
+We are figuring out many details as we go, and as soon as we have more to share we will do so by updating this very page (e.g., recommendations on how to arrive at the location, where to stay, interesting things to do during your visit to Italy, etc.) Be sure to check out this page from time to time!
 
 
 ## 🗓️ Save the date
@@ -14,7 +14,7 @@ We will get married on **June 25th, 2021** ([click here to add the date to your 
 
 ## 📮 RSVP
 
-Please [let us know](mailto:asd@pittle.org) that you won't miss our special day **no later than June 1st, 2021**.
+Please [let us know](mailto:asd@pittle.org) that you won't miss our special day, **no later than June 1st, 2021**.
 
 
 ## ❤️ Share the love
@@ -54,7 +54,7 @@ You can call, email, WhatsApp, iMessage, etc. Ali anytime:
 
 The location is called "Antico Casale Cesenatico" and <a href="http://anticocasalecesenatico.com" target="_blank" rel="noopener noreferrer">this is their website</a>.
 
-**Do NOT** GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's home. Trust us, we've been there… Although the address on the website would guide you to a very close location and you would met with lovely people, we'd rather have you in our own party!
+**Do NOT** GPS-navigate to the location by looking up their address straight from the website however, otherwise you will end up in other people's homes. Trust us, we've been there… Although the address on the website would guide you to a very close location and you would meet lovely people, we'd rather have you at our party!
 
 Here the "official" address as it appears on their website:
 
@@ -68,7 +68,7 @@ Use <a href="https://goo.gl/maps/HDcbyhjBNG72bNDD9" target="_blank" rel="noopene
 
 [![Location]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})]({{ '/assets/image/location.jpg?v=' | append: site.github.build_revision | relative_url }})
 
-> You might figure they also manage a small bed and breakfast at the same location, however we do not necessarily recommend you staying there as it is pretty much in the middle of nowhere and it's not cheap.
+> You might figure they also manage a small bed and breakfast at the same location, however, we do not necessarily recommend you staying there as it is pretty much in the middle of nowhere and it's not cheap.
 
 
 ## 🚗 Travel recommendations
